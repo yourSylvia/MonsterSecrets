@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: b6181ed96262843249700bf4a681078f
+timeCreated: 1522224294
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: convex_Hong Kong Island _0
+    21300002: convex_Hong Kong Island
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: convex_Hong Kong Island
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 97
+        width: 440
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 0, y: 679}
+      - {x: -205.83258, y: 664.16223}
+      - {x: -402.66928, y: 620.29736}
+      - {x: -581.9074, y: 549.3226}
+      - {x: -735.71344, y: 454.33966}
+      - {x: -857.3652, y: 339.49997}
+      - {x: -941.54596, y: 209.82253}
+      - {x: -984.5767, y: 70.9748}
+      - {x: -984.5767, y: -70.97486}
+      - {x: -941.5459, y: -209.82257}
+      - {x: -857.3651, y: -339.50003}
+      - {x: -735.7134, y: -454.33972}
+      - {x: -581.90735, y: -549.3226}
+      - {x: -402.66922, y: -620.29736}
+      - {x: -205.83249, y: -664.16223}
+      - {x: 0.00008654855, y: -679}
+      - {x: 205.83267, y: -664.1622}
+      - {x: 402.66937, y: -620.29736}
+      - {x: 581.90753, y: -549.3225}
+      - {x: 735.71344, y: -454.3396}
+      - {x: 857.3652, y: -339.49994}
+      - {x: 941.5459, y: -209.8226}
+      - {x: 984.57666, y: -70.97506}
+      - {x: 984.5768, y: 70.974434}
+      - {x: 941.5462, y: 209.82202}
+      - {x: 857.36566, y: 339.4994}
+      - {x: 735.71423, y: 454.33905}
+      - {x: 581.9086, y: 549.32196}
+      - {x: 402.67084, y: 620.2969}
+      - {x: 205.83449, y: 664.1619}
+    physicsShape:
+    - - {x: 362, y: -532}
+      - {x: 364, y: -524}
+      - {x: 370, y: -508}
+      - {x: 370, y: -496}
+      - {x: 358, y: -485}
+      - {x: 360, y: -470}
+      - {x: 367, y: -459}
+      - {x: 367, y: -447}
+      - {x: 363, y: -430}
+      - {x: 374, y: -422}
+      - {x: 387, y: -419}
+      - {x: 393, y: -453}
+      - {x: 399, y: -463}
+      - {x: 404, y: -490}
+      - {x: 409, y: -505}
+      - {x: 416, y: -513}
+      - {x: 412, y: -536}
+      - {x: 413, y: -539}
+      - {x: 419, y: -547}
+      - {x: 449, y: -553}
+      - {x: 455, y: -547}
+      - {x: 456, y: -541}
+      - {x: 456, y: -529}
+      - {x: 447, y: -491}
+      - {x: 446, y: -460}
+      - {x: 437, y: -446}
+      - {x: 450, y: -421}
+      - {x: 455, y: -416}
+      - {x: 453, y: -404}
+      - {x: 448, y: -395}
+      - {x: 424, y: -382}
+      - {x: 423, y: -333}
+      - {x: 423, y: -330}
+      - {x: 411, y: -315}
+      - {x: 398, y: -316}
+      - {x: 378, y: -309}
+      - {x: 360, y: -291}
+      - {x: 351, y: -281}
+      - {x: 325, y: -267}
+      - {x: 316, y: -259}
+      - {x: 306, y: -252}
+      - {x: 296, y: -252}
+      - {x: 284, y: -254}
+      - {x: 272, y: -261}
+      - {x: 253, y: -262}
+      - {x: 239, y: -277}
+      - {x: 232, y: -289}
+      - {x: 212, y: -295}
+      - {x: 196, y: -295}
+      - {x: 182, y: -279}
+      - {x: 168, y: -281}
+      - {x: 138, y: -282}
+      - {x: 115, y: -281}
+      - {x: 97, y: -259}
+      - {x: 79, y: -262}
+      - {x: 59, y: -263}
+      - {x: 38, y: -276}
+      - {x: 29, y: -291}
+      - {x: 17, y: -302}
+      - {x: 17, y: -308}
+      - {x: 18, y: -315}
+      - {x: 32, y: -327}
+      - {x: 45, y: -329}
+      - {x: 67, y: -364}
+      - {x: 78, y: -376}
+      - {x: 86, y: -383}
+      - {x: 101, y: -389}
+      - {x: 110, y: -403}
+      - {x: 129, y: -400}
+      - {x: 129, y: -417}
+      - {x: 123, y: -410}
+      - {x: 109, y: -406}
+      - {x: 103, y: -416}
+      - {x: 114, y: -428}
+      - {x: 130, y: -434}
+      - {x: 150, y: -449}
+      - {x: 159, y: -447}
+      - {x: 156, y: -440}
+      - {x: 148, y: -433}
+      - {x: 148, y: -421}
+      - {x: 162, y: -416}
+      - {x: 176, y: -419}
+      - {x: 173, y: -435}
+      - {x: 172, y: -454}
+      - {x: 178, y: -458}
+      - {x: 187, y: -459}
+      - {x: 200, y: -451}
+      - {x: 203, y: -423}
+      - {x: 217, y: -418}
+      - {x: 225, y: -426}
+      - {x: 232, y: -425}
+      - {x: 247, y: -420}
+      - {x: 239, y: -443}
+      - {x: 221, y: -442}
+      - {x: 216, y: -446}
+      - {x: 217, y: -453}
+      - {x: 226, y: -462}
+      - {x: 239, y: -462}
+      - {x: 248, y: -452}
+      - {x: 257, y: -448}
+      - {x: 271, y: -447}
+      - {x: 285, y: -461}
+      - {x: 297, y: -474}
+      - {x: 313, y: -479}
+      - {x: 307, y: -486}
+      - {x: 304, y: -499}
+      - {x: 300, y: -512}
+      - {x: 297, y: -515}
+      - {x: 295, y: -518}
+      - {x: 307, y: -526}
+      - {x: 307, y: -536}
+      - {x: 308, y: -539}
+      - {x: 315, y: -537}
+      - {x: 321, y: -533}
+      - {x: 334, y: -521}
+      - {x: 342, y: -525}
+      - {x: 340, y: -546}
+      - {x: 341, y: -563}
+      - {x: 346, y: -578}
+      - {x: 352, y: -582}
+      - {x: 376, y: -582}
+      - {x: 388, y: -570}
+      - {x: 390, y: -565}
+      - {x: 382, y: -552}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
